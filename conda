@@ -1,3 +1,6 @@
+#install
+wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh
+
 Conda的环境管理功能允许我们同时安装若干不同版本的Python，并能自由切换。
 
 # 创建一个名为python34的环境，指定Python版本是3.4（不用管是3.4.x，conda会为我们自动寻找3.4.x中的最新版本）
